@@ -106,7 +106,6 @@ static NSDictionary *iOS9propertyKeys;
                                              @"jobTitle", CNContactJobTitleKey,
                                              @"department", CNContactDepartmentNameKey,
                                              @"email", CNContactEmailAddressesKey,
-                                             @"note", CNContactNoteKey,
                                              @"birthday", CNContactBirthdayKey,
                                              @"kind", CNContactTypeKey,
                                              @"address", CNContactPostalAddressesKey,
